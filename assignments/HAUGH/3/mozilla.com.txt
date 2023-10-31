@@ -1,0 +1,84 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 31 Oct 2023 19:37:27 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://mozilla.com
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'none'
+
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 31 Oct 2023 19:37:27 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://www.mozilla.org/firefox
+Strict-Transport-Security: max-age=60; includeSubDomains
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'none'
+
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html; charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Server: meinheld/1.0.2
+Date: Tue, 31 Oct 2023 01:41:35 GMT
+Location: /firefox/
+X-Backend-Server: bedrock-66fb879bd4-jxrsd.gcp-us-west1
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+Via: 1.1 google, 1.1 f9469697124eb80051d25655c550eb3e.cloudfront.net (CloudFront)
+X-Cache: Hit from cloudfront
+X-Amz-Cf-Pop: ATL59-P7
+X-Amz-Cf-Id: uPw-RviVWqAyrmFNVGU2FlGayzziuQGRfeUQoeaO4aD8GhLmhh25gA==
+Age: 64553
+
+HTTP/1.1 302 Moved Temporarily
+Content-Type: text/html; charset=utf-8
+Content-Length: 0
+Connection: keep-alive
+Server: meinheld/1.0.2
+Date: Tue, 31 Oct 2023 19:36:59 GMT
+Location: /en-US/firefox/
+X-Frame-Options: DENY
+Content-Security-Policy: default-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.mozilla.org; connect-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.mozilla.org www.googletagmanager.com www.google-analytics.com region1.google-analytics.com logs.convertexperiments.com 1003350.metrics.convertexperiments.com 1003343.metrics.convertexperiments.com sentry.prod.mozaws.net o1069899.sentry.io o1069899.ingest.sentry.io https://accounts.firefox.com/ stage.cjms.nonprod.cloudops.mozgcp.net cjms.services.mozilla.com; child-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.mozilla.org www.googletagmanager.com www.google-analytics.com www.youtube-nocookie.com trackertest.org www.surveygizmo.com accounts.firefox.com accounts.firefox.com.cn www.youtube.com js.stripe.com; font-src 'self'; img-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.mozilla.org data: mozilla.org www.googletagmanager.com www.google-analytics.com creativecommons.org cdn-4.convertexperiments.com logs.convertexperiments.com images.ctfassets.net; frame-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.mozilla.org www.googletagmanager.com www.google-analytics.com www.youtube-nocookie.com trackertest.org www.surveygizmo.com accounts.firefox.com accounts.firefox.com.cn www.youtube.com js.stripe.com; style-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.mozilla.org 'unsafe-inline' app.convert.com; script-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.mozilla.org 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com www.google-analytics.com tagmanager.google.com www.youtube.com s.ytimg.com cdn-4.convertexperiments.com app.convert.com data.track.convertexperiments.com 1003350.track.convertexperiments.com 1003343.track.convertexperiments.com js.stripe.com
+Cache-Control: max-age=600
+Expires: Tue, 31 Oct 2023 19:46:59 GMT
+X-Backend-Server: bedrock-66fb879bd4-n7djt.gcp-us-west1
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+Via: 1.1 google, 1.1 f9469697124eb80051d25655c550eb3e.cloudfront.net (CloudFront)
+Vary: Accept-Language
+X-Cache: Hit from cloudfront
+X-Amz-Cf-Pop: ATL59-P7
+X-Amz-Cf-Id: y7Eomtp8XptGGU4MDStQNu7yi1uD7zOAZ7UFKoHvbuiPWteY6Xkr2g==
+Age: 29
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Content-Length: 79966
+Connection: keep-alive
+Server: meinheld/1.0.2
+Date: Tue, 31 Oct 2023 19:32:10 GMT
+X-Frame-Options: DENY
+Content-Security-Policy: child-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.mozilla.org www.googletagmanager.com www.google-analytics.com www.youtube-nocookie.com trackertest.org www.surveygizmo.com accounts.firefox.com accounts.firefox.com.cn www.youtube.com js.stripe.com; script-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.mozilla.org 'unsafe-inline' 'unsafe-eval' www.googletagmanager.com www.google-analytics.com tagmanager.google.com www.youtube.com s.ytimg.com cdn-4.convertexperiments.com app.convert.com data.track.convertexperiments.com 1003350.track.convertexperiments.com 1003343.track.convertexperiments.com js.stripe.com; connect-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.mozilla.org www.googletagmanager.com www.google-analytics.com region1.google-analytics.com logs.convertexperiments.com 1003350.metrics.convertexperiments.com 1003343.metrics.convertexperiments.com sentry.prod.mozaws.net o1069899.sentry.io o1069899.ingest.sentry.io https://accounts.firefox.com/ stage.cjms.nonprod.cloudops.mozgcp.net cjms.services.mozilla.com; frame-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.mozilla.org www.googletagmanager.com www.google-analytics.com www.youtube-nocookie.com trackertest.org www.surveygizmo.com accounts.firefox.com accounts.firefox.com.cn www.youtube.com js.stripe.com; default-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.mozilla.org; img-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.mozilla.org data: mozilla.org www.googletagmanager.com www.google-analytics.com creativecommons.org cdn-4.convertexperiments.com logs.convertexperiments.com images.ctfassets.net; font-src 'self'; style-src 'self' *.mozilla.net *.mozilla.org *.mozilla.com *.mozilla.org 'unsafe-inline' app.convert.com
+Cache-Control: max-age=600
+Expires: Tue, 31 Oct 2023 19:42:10 GMT
+X-Clacks-Overhead: GNU Terry Pratchett
+X-Backend-Server: bedrock-66fb879bd4-r5spk.gcp-us-west1
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+Via: 1.1 google, 1.1 f9469697124eb80051d25655c550eb3e.cloudfront.net (CloudFront)
+ETag: "4c7672e2bee11c229ea0372145b6b799"
+Vary: Accept-Encoding
+X-Cache: Hit from cloudfront
+X-Amz-Cf-Pop: ATL59-P7
+X-Amz-Cf-Id: alYPjij7TJKOY5zJlpgYwMyqXZ7pMQP1Ef307BeQDV2LVzu6Dy3t1Q==
+Age: 318
+

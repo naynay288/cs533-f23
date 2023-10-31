@@ -1,0 +1,31 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 31 Oct 2023 19:25:45 GMT
+Connection: keep-alive
+Via: http/1.1 ip-10-101-0-134.ec2.internal (ApacheTrafficServer [c s f ])
+Server: ATS
+Cache-Control: no-store
+Content-Type: text/html
+Content-Language: en
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Security-Policy: sandbox allow-scripts; default-src 'self'; img-src https:; style-src 'unsafe-inline'; script-src 'unsafe-inline'; report-uri http://csp.yahoo.com/beacon/csp?src=redirect
+Location: https://www.aol.com/
+Content-Length: 4406
+
+HTTP/1.1 404 Not Found
+Date: Tue, 31 Oct 2023 19:25:46 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 9
+ETag: W/"9-0gXL1ngzMqISxa6S1zx3F4wtLyg"
+content-security-policy: upgrade-insecure-requests; block-all-mixed-content; sandbox allow-modals allow-forms allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox allow-presentation allow-orientation-lock allow-pointer-lock;
+cache-control: no-cache, no-store, private, must-revalidate
+Age: 0
+Connection: keep-alive
+Strict-Transport-Security: max-age=31536000
+Server: ATS
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+

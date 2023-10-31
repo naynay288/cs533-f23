@@ -1,0 +1,47 @@
+HTTP/1.1 301 Moved Permanently
+Server: Tengine
+Date: Tue, 31 Oct 2023 19:25:43 GMT
+Content-Type: text/html
+Content-Length: 239
+Connection: keep-alive
+Location: https://alibaba.com/
+Timing-Allow-Origin: *
+EagleId: 2103285d16987803439332833eadfd
+server-timing: rt;dur=0.000,eagleid;desc=2103285d16987803439332833eadfd
+
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 31 Oct 2023 19:25:44 GMT
+Content-Type: text/html
+Content-Length: 278
+Connection: keep-alive
+Server: Tengine
+Set-Cookie: ali_apache_id=33.3.44.176.1698780344199.287117.6; path=/; domain=.alibaba.com; expires=Wed, 30-Nov-2084 01:01:01 GMT
+Location: https://www.alibaba.com/
+Strict-Transport-Security: max-age=31536000
+Timing-Allow-Origin: *
+EagleId: 21032cb016987803441985713e8ae7
+server-timing: rt;dur=0.002,eagleid;desc=21032cb016987803441985713e8ae7
+
+HTTP/1.1 200 OK
+Content-Type: text/html;charset=UTF-8
+render-policy: human-normal
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Pragma: no-cache
+Expires: 0
+X-Frame-Options: DENY
+Content-Language: zh-CN
+Strict-Transport-Security: max-age=31536000
+Strict-Transport-Security: max-age=31536000
+Timing-Allow-Origin: *
+EagleId: 2101eeb516987803445297583e4e21
+Server-Timing: rt;dur=0.129,eagleid;desc=2101eeb516987803445297583e4e21
+Date: Tue, 31 Oct 2023 19:25:44 GMT
+Connection: keep-alive
+Set-Cookie: ali_apache_id=33.1.238.181.1698780344531.286773.9; path=/; domain=.alibaba.com; expires=Wed, 30-Nov-2084 01:01:01 GMT
+Set-Cookie: cna=uELIHTd53WwCAS/2gNXpz4XC; Domain=.alibaba.com; Path=/; Expires=Sun, 18-Nov-2091 22:39:51 GMT; Secure; SameSite=None
+Set-Cookie: ug_se_c=organic_1698780344535; Domain=.alibaba.com; Expires=Fri, 09-Jul-2055 21:12:23 GMT; Path=/; Secure; HttpOnly
+Object-Status: ttl=-1,age=0
+Edge-Type: akamai
+

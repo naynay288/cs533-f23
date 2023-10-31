@@ -1,0 +1,38 @@
+HTTP/1.0 302 Moved Temporarily
+Location: https://usda.gov/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+HTTP/1.1 302 Found
+Date: Tue, 31 Oct 2023 19:37:53 GMT
+Content-Type: text/html; charset=iso-8859-1
+Content-Length: 205
+Connection: close
+Cache-Control: public, max-age=3600
+Location: https://www.usda.gov/
+X-Varnish: 4910291 2385307
+Age: 37
+Via: 1.1 varnish-v4
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+
+HTTP/1.0 200 OK
+Content-Type: text/html; charset=UTF-8
+X-XSS-Protection: 1; mode=block
+Content-Security-Policy: style-src 'self' 'unsafe-inline' *.gov *.com;
+X-Content-Type-Options: nosniff
+X-UA-Compatible: IE=edge
+Content-Language: en
+X-Frame-Options: SAMEORIGIN
+Last-Modified: Tue, 31 Oct 2023 19:08:13 GMT
+ETag: "1698779293"
+X-Generator: Drupal 9 (https://www.drupal.org)
+X-Drupal-Cache: MISS
+X-Varnish: 6001799 6001672
+Cache-Control: public, max-age=457
+Expires: Tue, 31 Oct 2023 19:45:30 GMT
+Date: Tue, 31 Oct 2023 19:37:53 GMT
+Connection: close
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains ; preload
+X-Content-Security-Policy: upgrade-insecure-requests;
+

@@ -1,0 +1,52 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Tue, 31 Oct 2023 19:37:57 GMT
+Content-Type: text/html
+Content-Length: 167
+Connection: keep-alive
+Location: https://washingtonpost.com/
+X-Cache: Redirect from cloudfront
+Via: 1.1 adc415102a6f30645ade53a4352ac02a.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ATL58-P4
+X-Amz-Cf-Id: Lpyu3uq698erBPDrG8dfPnxeZKFImDO67b1jGDn88NQVWsatTjxBqA==
+
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Connection: keep-alive
+Date: Tue, 31 Oct 2023 19:37:22 GMT
+Location: https://www.washingtonpost.com/
+Server: AmazonS3
+X-Cache: Hit from cloudfront
+Via: 1.1 7b15a0f404ca1fe5ebdd8fa885007aa8.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ATL58-P4
+X-Amz-Cf-Id: 2dVMM_YmYibKI-XsogjPr6YHmfglE-IeqBwszMDcxRQzsMVcMzswcg==
+Age: 36
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+ETag: W/"tj1lz0f4yt19xw7"
+Last-Modified: Tuesday, 31-Oct-2023 19:36:56 GMT
+X-Origin-Cache: EXPIRED
+X-Origin-Upstream-Status: 200
+Cache-Control: max-age=60
+Expires: Tue, 31 Oct 2023 19:39:08 GMT
+Date: Tue, 31 Oct 2023 19:38:08 GMT
+Connection: keep-alive
+Set-Cookie: wp_devicetype=0; expires=Thu, 30-Nov-2023 19:38:08 GMT; path=/; domain=.washingtonpost.com; secure; SameSite=None
+Set-Cookie: wp_ak_v_v=0|20210407; expires=Thu, 30-Nov-2023 19:38:08 GMT; path=/; domain=.washingtonpost.com; secure; SameSite=None
+Set-Cookie: wp_ak_pct=0|20230131; max-age= 2592000; path=/; domain=.washingtonpost.com; SameSite=None; secure
+Set-Cookie: wp_ak_subs=0|20230101; max-age=600; path=/; domain=.washingtonpost.com; SameSite=None; secure
+Set-Cookie: wp_ak_mab=0|20230101; max-age=0; path=/; domain=.washingtonpost.com; SameSite=None; secure
+Set-Cookie: wp_ak_signinv2=1|20230125; max-age=2592000; path=/; domain=.washingtonpost.com; SameSite=None; secure
+Set-Cookie: wp_ak_om=1|20230731; max-age=2592000; path=/; domain=.washingtonpost.com; SameSite=None; secure
+Set-Cookie: wp_ak_wab=1|2|2|1|1|0|1|0|0|20230418; max-age=31536000; path=/; domain=.washingtonpost.com; SameSite=None; secure
+Set-Cookie: wp_ak_v_mab=0|0|0|1|20231009; max-age=31536000; path=/; domain=.washingtonpost.com; SameSite=None; secure
+Set-Cookie: wp_geo=US|VA|544|23432|; max-age=3600; path=/; domain=.washingtonpost.com; SameSite=None; secure
+Akamai-True-TTL: 120
+Content-Security-Policy: upgrade-insecure-requests
+Strict-Transport-Security: max-age=15768000
+X-Frame-Options: SAMEORIGIN
+Set-Cookie: akaas_wp_ak_v_nav=1706557088~rv=25~id=645d28810cc4ac5c978359ce146badd3~rn=0-control; path=/; Expires=Mon, 29 Jan 2024 19:38:08 GMT; Secure; SameSite=None
+x-wp-request-id: 0.c76bdc17.1698781078.8005e5bc
+Server-Timing: ak_p; desc="1698781078084_400321479_2147870140_1001608_12485_58_66_-";dur=1
+

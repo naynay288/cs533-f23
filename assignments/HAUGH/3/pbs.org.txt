@@ -1,0 +1,42 @@
+HTTP/1.1 301 Moved Permanently
+Server: openresty
+Date: Tue, 31 Oct 2023 19:37:34 GMT
+Content-Type: text/html
+Content-Length: 166
+Connection: keep-alive
+Location: http://www.pbs.org/
+X-PBS-fwsrvname: ip-10-193-229-83.ec2.internal
+
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Tue, 31 Oct 2023 19:37:34 GMT
+Content-Type: text/html
+Content-Length: 167
+Connection: keep-alive
+Location: https://www.pbs.org/
+X-Cache: Redirect from cloudfront
+Via: 1.1 ef1fac4d24ea853c083c006e159230ea.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ATL56-C2
+X-Amz-Cf-Id: JhcWkOMjVy1fzMDGVmnuIF7aQpW0Y5Jku6RVNn9zZHWN9FEH7nKlgw==
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Content-Length: 228757
+Connection: keep-alive
+Date: Tue, 31 Oct 2023 19:28:51 GMT
+Expires: Tue, 31 Oct 2023 19:38:51 GMT
+Cache-Control: max-age=600
+Content-Security-Policy: default-src 'self' *.pbs.org; frame-src 'self' *.pbs.org *.doubleclick.net *.2mdn.net *.googlesyndication.com www.facebook.com www.google.com *.googletagservices.com ct.pinterest.com; style-src 'self' *.pbs.org 'unsafe-inline'; script-src 'self' *.pbs.org *.googlesyndication.com adservice.google.com adservice.google.co.in connect.facebook.net fundingchoicesmessages.google.com *.2mdn.net *.nr-data.net sb.scorecardresearch.com securepubads.g.doubleclick.net www.google-analytics.com www.googletagmanager.com *.googletagservices.com 'unsafe-inline' 'unsafe-eval' *.cookielaw.org www.redditstatic.com alb.reddit.com analytics.tiktok.com s.pinimg.com; connect-src 'self' *.pbs.org *.doubleclick.net *.googlesyndication.com *.2mdn.net *.nr-data.net *.eloqua.com *.cookielaw.org *.onetrust.com csi.gstatic.com fundingchoicesmessages.google.com www.google-analytics.com www.redditstatic.com alb.reddit.com analytics.tiktok.com ct.pinterest.com *.ingest.sentry.io; img-src 'self' data: *.pbs.org *.doubleclick.net *.cookielaw.org *.googlesyndication.com sb.scorecardresearch.com www.googletagmanager.com www.facebook.com graph.facebook.com platform-lookaside.fbsbx.com *.2mdn.net *.agkn.com *.fbsbx.com *.fbcdn.net www.google-analytics.com www.google.com *.googleusercontent.com tags.w55c.net www.redditstatic.com alb.reddit.com analytics.tiktok.com ct.pinterest.com impressions.onelink.me
+Permissions-Policy: accelerometer=(), autoplay=(self "https://player.pbs.org" "https://player-staging.pbs.org"), camera=(), display-capture=(), document-domain=(), encrypted-media=(self "https://player.pbs.org" "https://player-staging.pbs.org"), fullscreen=(self "https://player.pbs.org" "https://player-staging.pbs.org"), geolocation=(self "https://player.pbs.org" "https://player-staging.pbs.org"), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), usb=()
+X-Frame-Options: DENY
+ETag: "06f6e7b6005469a2d718de0fc8cedc29"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+Vary: Accept-Encoding,Cloudfront-Viewer-Country,Cookie
+X-Cache: Hit from cloudfront
+Via: 1.1 57eca1a5e1cd9e4394e99c6993d03f74.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ATL56-C2
+X-Amz-Cf-Id: 2mOxpltXZw_mFH0WzK-XsDvp4PfqwO33Wx6Ryz09zAlIPt_kTT_6zw==
+Age: 523
+

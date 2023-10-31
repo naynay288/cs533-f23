@@ -1,0 +1,47 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: http://www.ap.org/
+Expires: Tue, 31 Oct 2023 19:25:46 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Tue, 31 Oct 2023 19:25:46 GMT
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Tue, 31 Oct 2023 19:25:46 GMT
+Content-Type: text/html
+Content-Length: 167
+Connection: keep-alive
+Location: https://www.ap.org/
+X-Cache: Redirect from cloudfront
+Via: 1.1 4b55b1de25547b8bfda290bc400536e2.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ATL59-P8
+X-Amz-Cf-Id: 80hZ12CgoTt9Z5jdkBEl6fTX8I9VoHNYjV8J3xu53cuQSOoKgXnGKQ==
+
+HTTP/1.1 302 Moved Temporarily
+Content-Type: text/html;charset=ISO-8859-1
+Content-Length: 0
+Connection: keep-alive
+Date: Tue, 31 Oct 2023 19:24:09 GMT
+Location: https://www.ap.org/en/
+Server: Apache/2.4.52 (Ubuntu)
+X-Cache: Hit from cloudfront
+Via: 1.1 f7d8aa9f8887673e75fcf6c12b2312f6.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ATL59-P8
+X-Amz-Cf-Id: f5iVkIbu9snvmu8RYfqEukuMEXqnlhcufETep26iB9brznQWDsfwXw==
+Age: 98
+
+HTTP/1.1 200 OK
+Content-Type: text/html;charset=UTF-8
+Connection: keep-alive
+Date: Tue, 31 Oct 2023 19:24:09 GMT
+Server: Apache/2.4.52 (Ubuntu)
+Vary: Accept-Encoding
+X-Cache: Hit from cloudfront
+Via: 1.1 f7d8aa9f8887673e75fcf6c12b2312f6.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ATL59-P8
+X-Amz-Cf-Id: 8dTXwTOtiluNR3p1SgkheH8-Atf9qhKOeKer2lPORvYGaPaFg_AVWA==
+Age: 98
+

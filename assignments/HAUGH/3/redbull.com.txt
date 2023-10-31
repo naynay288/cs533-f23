@@ -1,0 +1,39 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Tue, 31 Oct 2023 19:37:38 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: http://www.redbull.com/
+
+HTTP/1.1 302 Moved Temporarily
+Server: AkamaiGHost
+Content-Length: 0
+Location: http://www.redbull.com/us-en/
+Date: Tue, 31 Oct 2023 19:37:38 GMT
+Connection: keep-alive
+X-Redirect-Chain: Geo_Redirections
+x-extended-stale-cache-match: true
+
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.redbull.com/us-en/
+Date: Tue, 31 Oct 2023 19:37:38 GMT
+Connection: keep-alive
+X-Redirect-Chain: VMGR03
+x-extended-stale-cache-match: true
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+X-Frame-Options: sameorigin
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1;mode=block
+x-akamai-user-cache-control: public, max-age=600
+ETag: W/"e1e21-6YOYmA/b0zZiQRq2vwM7v0uO2yE"
+Date: Tue, 31 Oct 2023 19:37:39 GMT
+Connection: keep-alive
+X-Redirect-Chain: VMGR03
+Cache-Control: public, max-age=600
+x-extended-stale-cache-match: true
+

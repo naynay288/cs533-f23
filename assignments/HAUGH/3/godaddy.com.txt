@@ -1,0 +1,29 @@
+HTTP/1.1 301 Redirect
+Date: Tue, 31 Oct 2023 19:35:59 GMT
+Connection: keep-alive
+Server: ATS/7.1.6
+Cache-Control: no-store
+Location: https://www.godaddy.com/
+Content-Type: text/html
+Content-Language: en
+Content-Length: 306
+
+HTTP/1.1 403 Forbidden
+Server: AkamaiGHost
+Mime-Version: 1.0
+Content-Type: text/html
+Content-Length: 265
+Expires: Tue, 31 Oct 2023 19:35:59 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Tue, 31 Oct 2023 19:35:59 GMT
+Connection: close
+Set-Cookie: market=en-US; expires=Wed, 30-Oct-2024 19:35:59 GMT; path=/; domain=.godaddy.com
+Set-Cookie: currency=USD; expires=Wed, 30-Oct-2024 19:35:59 GMT; path=/; domain=.godaddy.com
+X-Frame-Options: DENY
+X-ORIGIN-TAG: frontdoor
+Set-Cookie: akaas_godaddy-com-wildcard=2147483647~rv=96~id=de3d771c6bf2815cc2aa5602150c5edb~rn=; path=/; Secure; SameSite=None
+X-ARC: 2
+X-ARC: 6a
+Server-Timing: ak_p; desc="1698780959727_400321166_1793587429_7712_15030_63_106_-";dur=1
+

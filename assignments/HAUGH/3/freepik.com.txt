@@ -1,0 +1,40 @@
+HTTP/1.1 301 Moved Permanently
+Cache-Control: private
+Location: https://freepik.com:443/
+Content-Length: 0
+Date: Tue, 31 Oct 2023 19:35:56 GMT
+Content-Type: text/html; charset=UTF-8
+
+HTTP/1.1 301 Moved Permanently
+server: istio-envoy
+date: Tue, 31 Oct 2023 19:35:56 GMT
+content-type: text/html
+Content-Length: 162
+location: https://www.freepik.com/
+x-envoy-upstream-service-time: 0
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+HTTP/1.1 200 OK
+server: istio-envoy
+date: Tue, 31 Oct 2023 19:35:56 GMT
+content-type: text/html; charset=UTF-8
+set-cookie: csrf_freepik=a9d41b75c2184d45647ae95c5ef671d1; expires=Tue, 31 Oct 2023 21:35:56 GMT; Max-Age=7200; path=/; secure; SameSite=Strict
+x-date: Tue, 31 Oct 2023 20:35:56 GMT
+cache-control: nocache
+x-accel-expires-debug: 7200
+set-cookie: _fc=FC.a6e0e0b5-ded1-5efc-c73c-53188cce149e; Max-Age=Session;
+set-cookie: _fcid=FC.a6e0e0b5-ded1-5efc-c73c-53188cce149e; Max-Age=31536000;
+referrer-policy: no-referrer-when-downgrade
+permissions-policy: accelerometer=(), autoplay=(), camera=(), encrypted-media=(), fullscreen=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(self "https://pay.google.com"), picture-in-picture=(), sync-xhr=(self), usb=()
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-permitted-cross-domain-policies: master-only
+strict-transport-security: max-age=31536000; includeSubDomains
+content-security-policy: frame-ancestors *.photopea.com;
+x-frame-options: Deny
+x-envoy-upstream-service-time: 18
+transfer-encoding: chunked
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+

@@ -1,0 +1,19 @@
+HTTP/1.1 301 Moved Permanently
+content-length: 0
+location: https://www.disney.com/
+
+HTTP/1.1 200 OK
+Content-Type: text/html;charset=utf-8
+Content-Length: 597461
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-ua-compatible: IE=edge,chrome=1
+ETag: W/"273c24f89392873f8be810dbf9a1eab5"
+Accept-Ranges: bytes
+x-server: px-mh-ha-f
+Cache-Control: public, max-age=617
+Expires: Tue, 31 Oct 2023 19:45:54 GMT
+Date: Tue, 31 Oct 2023 19:35:37 GMT
+Connection: keep-alive
+X-Origin: Matterhorn_TLS
+

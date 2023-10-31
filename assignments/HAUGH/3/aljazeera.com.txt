@@ -1,0 +1,22 @@
+HTTP/1.1 301 Moved Permanently
+Server: awselb/2.0
+Date: Tue, 31 Oct 2023 19:25:45 GMT
+Content-Type: text/html
+Content-Length: 134
+Connection: keep-alive
+Location: https://www.aljazeera.com:443/
+
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=utf-8
+X-Powered-By: Express
+Cache-Control: max-age=120, must-revalidate
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+ETag: W/"37163-hN6+Monliq5vIBQTLCq6/gUkW8Y"
+X-rq: bur5 111 254 443
+Date: Tue, 31 Oct 2023 19:25:45 GMT
+Connection: keep-alive
+Strict-Transport-Security: max-age=15768000
+

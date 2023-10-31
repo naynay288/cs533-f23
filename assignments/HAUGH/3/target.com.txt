@@ -1,0 +1,51 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://target.com/
+Accept-Ranges: bytes
+Date: Tue, 31 Oct 2023 19:37:49 GMT
+Via: 1.1 varnish
+X-Served-By: cache-pdk-kpdk1780061-PDK
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1698781069.334981,VS0,VE0
+
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://www.target.com/
+Accept-Ranges: bytes
+Date: Tue, 31 Oct 2023 19:37:49 GMT
+Via: 1.1 varnish
+X-Served-By: cache-pdk-kpdk1780023-PDK
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1698781070.636771,VS0,VE0
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 405890
+Content-Type: text/html; charset=utf-8
+cache-control: no-cache
+ETag: "bxgh5s82168p4h"
+Accept-Ranges: bytes
+Age: 0
+Set-Cookie: TealeafAkaSid=Z0vjVM3l2N2khnDABU53FAyK1vX5jx5z; Expires=Thu, 30 Nov 2023 19:37:50 GMT; Path=/; Domain=target.com;
+Set-Cookie: visitorId=018B873E02B60201B178AAD247887474; Max-Age=63072000; Expires=Thu, 30 Oct 2025 19:37:50 GMT; Path=/; Domain=.target.com; Secure
+Set-Cookie: sapphire=1; Max-Age=2629746; Expires=Fri, 01 Dec 2023 06:06:56 GMT; Path=/; Domain=.target.com; Secure
+Set-Cookie: TealeafAkaSid=Z0vjVM3l2N2khnDABU53FAyK1vX5jx5z; Expires=Thu, 30 Nov 2023 19:37:50 GMT; Path=/; Domain=target.com;
+x-frame-options: SAMEORIGIN
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1; mode=block
+Date: Tue, 31 Oct 2023 19:37:50 GMT
+Vary: Accept-Encoding
+Content-Security-Policy: frame-ancestors 'self' https://*.target.com;
+Set-Cookie: GuestLocation=23434|36.730|-76.580|VA|US;Path=/; Secure; Max-Age=86400
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+

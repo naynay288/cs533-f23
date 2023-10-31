@@ -1,0 +1,44 @@
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: http://www.news.com.au/
+Date: Tue, 31 Oct 2023 19:37:30 GMT
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: https://www.news.com.au/
+Cache-Control: max-age=0
+Expires: Tue, 31 Oct 2023 19:37:30 GMT
+Date: Tue, 31 Oct 2023 19:37:30 GMT
+Connection: keep-alive
+X-SPPDebug: /?wpa=249773C60B8F845BC60654C0BAA5BE730BF5A8A0&editiondata=none&fromakamai=true&pt=none&device=DESKTOP&ck_st=null
+Content-Security-Policy-Report-Only: frame-ancestors 'self'; report-uri https://www.news.com.au/csp-reports
+Content-Security-Policy: block-all-mixed-content; style-src https: 'unsafe-inline'; script-src https: blob: 'unsafe-inline' 'unsafe-eval'; img-src https: data:; frame-src https:;
+X-ARRRG5: /blaize/decision-engine?path=http%3a%2f%2fwww.news.com.au%2f&blaizehost=cdn.news.newscorp.blaize.io&content_id=
+X-ARRRG4: 
+X-PathQS: TRUE
+Vary: User-Agent
+
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+X-Powered-By: WordPress VIP <https://wpvip.com>
+Host-Header: a9130478a60e5f9135f765b23f26593b
+X-Content-Type-Options: nosniff
+X-XSS-Protection: 1
+X-rq: syd2 123 242 443
+Cache-Control: max-age=5
+Expires: Tue, 31 Oct 2023 19:37:36 GMT
+Date: Tue, 31 Oct 2023 19:37:31 GMT
+Connection: keep-alive
+X-SPPDebug: /?wpa=249773C60B8F845BC60654C0BAA5BE730BF5A8A0&editiondata=none&fromakamai=true&pt=none&device=DESKTOP&ck_st=null
+Strict-Transport-Security: max-age=600 ; includeSubDomains
+Content-Security-Policy-Report-Only: frame-ancestors 'self'; report-uri https://www.news.com.au/csp-reports
+Content-Security-Policy: block-all-mixed-content; style-src https: 'unsafe-inline'; script-src https: blob: 'unsafe-inline' 'unsafe-eval'; img-src https: data:; frame-src https:;
+X-ARRRG5: /blaize/decision-engine?path=https%3a%2f%2fwww.news.com.au%2f&blaizehost=cdn.news.newscorp.blaize.io&content_id=
+X-ARRRG4: 
+X-PathQS: TRUE
+Vary: User-Agent
+

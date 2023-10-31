@@ -1,0 +1,54 @@
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Tue, 31 Oct 2023 19:35:58 GMT
+Content-Type: text/html
+Content-Length: 167
+Connection: keep-alive
+Location: https://gettyimages.com/
+X-Cache: Redirect from cloudfront
+Via: 1.1 24990d51e53375dffbe8411f5e14f578.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ATL51-C1
+X-Amz-Cf-Id: y-jlDd0Js5333o-YObcLmKymhm7MlN3lAToE3dJfcEF06_DdhRjQzw==
+
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Connection: keep-alive
+Date: Tue, 31 Oct 2023 19:35:58 GMT
+location: https://www.gettyimages.com/
+selected-fe: getty_frontend
+X-Cache: Miss from cloudfront
+Via: 1.1 363cad48d8e3402b6707734c1873c9d6.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ATL51-C1
+X-Amz-Cf-Id: Hs0JG6uGdhal5H9aiOlPdPmrcRvOHaaIxRvcOriY4PPhXMyIdiOYRA==
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Date: Tue, 31 Oct 2023 19:35:59 GMT
+server: nginx/1.22.0
+vary: Accept-Encoding
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+x-download-options: noopen
+x-permitted-cross-domain-policies: none
+referrer-policy: strict-origin-when-cross-origin
+vary: Accept
+etag: W/"6eb34669c4ebc18fdfdba625337cf313"
+cache-control: max-age=0, private, must-revalidate
+set-cookie: unisess=HLNjCHQohuyGm9%2B966Pu6Lj%2FMWbgR2BUjHu%2BXEbR0RfHqjE1u6dPxvuSudUVyWHyENlYoIfl2gF16jhcKYIBF1Th3KRLGVPrc%2Ff22Hd5c%2BAyO1JBhmNe1BpPZaBJyn89VLstj84czvG0D3Q1FzgMIPTKXB%2BFaT53jb8h9e%2BvAnl0niJc0eKgA3CXaEejaw0%3D--NJB6SNeCYxny7dr5--Bnf31AMB7iEKpbcJYXeJWg%3D%3D; path=/; secure; HttpOnly; SameSite=Lax
+set-cookie: giu=nv=1&lv=2023-10-31T19%3A35%3A59Z; path=/; expires=Sat, 31 Oct 2043 19:35:59 -0000; secure; HttpOnly
+set-cookie: uac=t=P%2BS2C9ZtM%2BAuaNUyfjDlBNCGPioBZi0BauJvqjnSgszUQVn4w8J%2F2BrVqxTWaqJ5ugNmRGLXhnW%2B5jj8mCVIBqtRPjCgrNmZtqGYihOsFoKMuORh9KsQiHAhbwgeMaUzAhzcr0YfF3kIElr%2FZm3kSBB%2Ba56Dyff3p%2FqqWCWYGO0%3D%7C77u%2FZEpaU3RMT09YbzlteFRXdUNYTVAKMTAwCgp2K1VpR0E9PQp4K3dpR0E9PQowCgoKMAoxMDAKCjEwMAowCjAwMDAwMDAwLTAwMDAtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMQoK%7C3%7C1%7C1&d; path=/; expires=Sat, 31 Oct 2043 19:35:59 -0000; secure; HttpOnly
+set-cookie: csrf=t=4P9mjZqH%2Bnc8D4rTu3ACJQbuhpZ2hMbmpPla1ZDRID8%3D; path=/; expires=Sat, 31 Oct 2043 19:35:59 -0000; secure; HttpOnly
+x-request-id: 0A330550-D418_0A337BE8-01BB_6541571F_9944BCE-08F1-721
+x-runtime: 0.083371
+x-backend: app_landing
+x-proxy-build: 1936893
+strict-transport-security: max-age=2592000
+x-timing-wait: 37/0/0/85
+selected-fe: getty_frontend
+X-Cache: Miss from cloudfront
+Via: 1.1 d1f0efbb41ff04939eb0644728811270.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ATL51-C1
+X-Amz-Cf-Id: l0GY4Ol0a6QbQ4J_MNeJVGPUg3ut7dlpX6Oj05u75RdOvPcIlmIDEg==
+

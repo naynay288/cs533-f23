@@ -1,0 +1,47 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 31 Oct 2023 19:37:43 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Tue, 31 Oct 2023 20:37:43 GMT
+Location: https://shopify.com/
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=W9IuJWcAW63L1Ci7p%2BGEusYPEDM0I6Whvx3jmkZcQXuuIGOWgRccxCG%2FROFm%2BYQqbN445suEaX2XnGLT0zrN%2BC7KazJnrinxUwzBBZAwZI2rukGesdIp2dPMDq4v"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+X-Content-Type-Options: nosniff
+Server-Timing: cfRequestDuration;dur=10.999918
+Server: cloudflare
+CF-RAY: 81ee5aacbd9553af-ATL
+alt-svc: h3=":443"; ma=86400
+
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 31 Oct 2023 19:37:43 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+X-Sorting-Hat-PodId: -1
+Location: https://www.shopify.com/
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+X-Dc: gcp-us-east1,gcp-us-east1
+X-Request-ID: dc598d9f-dcb5-41bc-9dc6-e0c72922e06e
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-XSS-Protection: 1; mode=block
+X-Permitted-Cross-Domain-Policies: none
+CF-Cache-Status: BYPASS
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v3?s=%2FmgtWV7EiOYbWEFMo080id%2B2Evxp4OstbwHIBojaB%2Bzp2qlcydKm%2Fhecg78Nb3CgfoUEFtZaJ6mbPWC3w%2BJGsdvpu7Utx2lIOy4Pp6SByhLDZ7YHt8PoocN%2BJ7BK"}],"group":"cf-nel","max_age":604800}
+NEL: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server-Timing: cfRequestDuration;dur=31.000137
+Server: cloudflare
+CF-RAY: 81ee5aae6a3553b8-ATL
+alt-svc: h3=":443"; ma=86400
+
+HTTP/1.1 200 OK
+Date: Tue, 31 Oct 2023 19:37:44 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+Cache-Control: max-age=900, stale-while-revalidate=86400
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+Server: cloudflare
+CF-RAY: 81ee5ab03b0eadc9-ATL
+alt-svc: h3=":443"; ma=86400
+

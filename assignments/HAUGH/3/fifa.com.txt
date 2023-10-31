@@ -1,0 +1,25 @@
+HTTP/1.1 301 Moved Permanently
+Cache-Control: no-store
+Date: Tue, 31 Oct 2023 19:35:55 GMT
+Location: https://www.fifa.com/
+Server: ECAcc (agc/7F3B)
+Content-Length: 0
+
+HTTP/1.1 301 Moved Permanently
+Cache-Control: no-store
+Date: Tue, 31 Oct 2023 19:35:55 GMT
+Location: https://www.fifa.com/fifaplus/
+Server: ECAcc (agc/7F3B)
+Content-Length: 0
+
+HTTP/1.1 401 Unauthorized
+Content-Encoding: gzip
+Content-Type: text/html
+Date: Tue, 31 Oct 2023 19:35:55 GMT
+IP: 47.134.37.89
+Reference: 1261995516052870379611870321196772217973
+Server: ECAcc (agc/7F67)
+URL: https://www.fifa.com/fifaplus/
+X-EC-ACL: 403
+Content-Length: 764
+

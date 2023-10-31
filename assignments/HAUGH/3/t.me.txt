@@ -1,0 +1,32 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.18.0
+Date: Tue, 31 Oct 2023 19:37:47 GMT
+Content-Type: text/html
+Content-Length: 169
+Connection: keep-alive
+Location: https://t.me/
+
+HTTP/1.1 302 Found
+Server: nginx/1.18.0
+Date: Tue, 31 Oct 2023 19:37:48 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 0
+Connection: keep-alive
+Set-Cookie: stel_ssid=e62ff74b8ecd980df0_213990825604594327; expires=Wed, 01 Nov 2023 19:37:48 GMT; path=/; samesite=None; secure; HttpOnly
+Pragma: no-cache
+Cache-control: no-store
+Location: //telegram.org/
+Strict-Transport-Security: max-age=35768000
+
+HTTP/1.1 200 OK
+Server: nginx/1.18.0
+Date: Tue, 31 Oct 2023 19:37:48 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 19510
+Connection: keep-alive
+Set-Cookie: stel_ssid=4c334d8519b17d0326_16995597240416311382; expires=Wed, 01 Nov 2023 06:44:28 GMT; path=/; samesite=None; secure; HttpOnly
+Pragma: no-cache
+Cache-control: no-store
+X-Frame-Options: SAMEORIGIN
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+

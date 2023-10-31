@@ -1,0 +1,19 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Tue, 31 Oct 2023 19:35:39 GMT
+Content-Type: text/html
+Content-Length: 162
+Connection: keep-alive
+Location: https://www.dreamstime.com/
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self';
+Strict-Transport-Security: max-age=15552000
+
+HTTP/1.1 403 Forbidden
+Server: nginx
+Date: Tue, 31 Oct 2023 19:35:40 GMT
+Content-Type: text/html
+Content-Length: 4260
+Connection: keep-alive
+Set-Cookie: _pxhd=Rx-ZSYQ8DihrnKO5yGhsSBvOlVHESp9BNDlRy3yK-zJl0Cp1G93e7WfS9cJr5cgbwrVoPOrRM7xl4P0UEChbnA==:z5qg2ry9OeR2XbITUU/eKhgXA1IrIgtaaSOachAA9h9NqSOUkNe8TVPGqticIzolP/OhdFJQKBH-beQLH7wINWw7H-5ryj-Vmq5VjBsq-Qk=; Max-Age=31536000; Path=/
+

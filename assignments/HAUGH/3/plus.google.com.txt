@@ -1,0 +1,28 @@
+HTTP/1.1 301 Moved Permanently
+Location: https://workspaceupdates.googleblog.com/2023/04/new-community-features-for-google-chat-and-an-update-currents%20.html
+Cross-Origin-Resource-Policy: cross-origin
+Content-Type: text/html; charset=UTF-8
+X-Content-Type-Options: nosniff
+Date: Tue, 31 Oct 2023 19:37:36 GMT
+Expires: Tue, 31 Oct 2023 20:07:36 GMT
+Cache-Control: public, max-age=1800
+Server: sffe
+Content-Length: 314
+X-XSS-Protection: 0
+
+HTTP/1.1 200 OK
+Strict-Transport-Security: max-age=86400; includeSubDomains
+Content-Type: text/html; charset=UTF-8
+Expires: Tue, 31 Oct 2023 19:37:36 GMT
+Date: Tue, 31 Oct 2023 19:37:36 GMT
+Cache-Control: private, max-age=0
+Last-Modified: Tue, 31 Oct 2023 15:11:30 GMT
+ETag: W/"f7e3de6d15d8cb2cb5e29bfcb5e876364bfee2d21d5a374110aa1e2094e55d66"
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self'
+X-XSS-Protection: 1; mode=block
+Content-Length: 0
+Server: GSE
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+

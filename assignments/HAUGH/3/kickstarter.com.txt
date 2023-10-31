@@ -1,0 +1,29 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 31 Oct 2023 19:37:09 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Tue, 31 Oct 2023 20:37:09 GMT
+Location: https://www.kickstarter.com/
+Set-Cookie: __cf_bm=HD9.Myo2yoz7F0kBHTMJ.guN.3vuDv_SMesqQXPRdbA-1698781029-0-Af68dl2W/8PsVp1h1SdSGAjoMupcwfruBeby4dZrTROnNTXJ8pwb6qIA676GPcpQ2bxBhY4/s60BlXQBw/06Vf4=; path=/; expires=Tue, 31-Oct-23 20:07:09 GMT; domain=.kickstarter.com; HttpOnly; SameSite=None
+Server: cloudflare
+CF-RAY: 81ee59db8e000807-ATL
+
+HTTP/1.1 403 Forbidden
+Date: Tue, 31 Oct 2023 19:37:10 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Length: 5344
+Connection: close
+Cross-Origin-Embedder-Policy: require-corp
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: same-origin
+Origin-Agent-Cluster: ?1
+Permissions-Policy: accelerometer=(),autoplay=(),browsing-topics=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()
+Referrer-Policy: same-origin
+X-Frame-Options: SAMEORIGIN
+cf-mitigated: challenge
+Cache-Control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: __cf_bm=fujYVrQzZ7qYSqTDiBZflEK4gzgSYqegxn5lv7By5ic-1698781029-0-AQuOmALuG+Cx9CFwn1pJtGeFhYBjHlGOlUpyTg3kEmgOw9Jf/zN/a7m49fDBhhug1jKCt+OZjs1ozZ3xbc/Nwok=; path=/; expires=Tue, 31-Oct-23 20:07:09 GMT; domain=.kickstarter.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+CF-RAY: 81ee59dd4fe5ada6-ATL
+

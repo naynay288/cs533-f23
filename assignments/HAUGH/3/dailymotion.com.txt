@@ -1,0 +1,38 @@
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html
+Date: Tue, 31 Oct 2023 19:35:33 GMT
+Location: https://dailymotion.com/
+Connection: Keep-Alive
+Content-Length: 0
+
+HTTP/1.1 301 Moved Permanently
+Server: DMS/1.0.42
+Content-Type: text/html
+Strict-Transport-Security: max-age=31708800; includeSubDomains; preload
+Date: Tue, 31 Oct 2023 19:35:34 GMT
+Server-Timing: total;dur=0, dc;desc="ix7"
+Location: https://www.dailymotion.com/
+Timing-Allow-Origin: *
+Connection: Keep-Alive
+Content-Length: 0
+
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+Content-Length: 0
+Content-Security-Policy: upgrade-insecure-requests
+Content-Security-Policy-Report-Only: default-src https: blob: wss: data: android-webview-video-poster: android-webview: chrome-extension: safari-extension: 'unsafe-eval' 'unsafe-inline'; report-uri https://www.dailymotion.com/content_security_policy_report_uri
+Content-Type: text/html; charset=utf-8
+Date: Tue, 31 Oct 2023 19:35:35 GMT
+Expect-Ct: max-age=0, report-uri="https://www.dailymotion.com/content_security_policy_report_uri"
+Referrer-Policy: no-referrer-when-downgrade
+Server: DMS/1.0.42
+Server-Timing: total;dur=12, dc;desc="dc3"
+Set-Cookie: dmvk=65415707773f4; path=/; domain=.dailymotion.com; Secure; SameSite=none;
+Set-Cookie: ts=465530; Path=/; Domain=dailymotion.com; Expires=Sun, 01 Dec 2024 19:35:35 GMT; Max-Age=34300799; Secure; SameSite=None
+Set-Cookie: v1st=2025dafe-67da-44c9-bccc-db5da7e7526d; Path=/; Domain=dailymotion.com; Expires=Sun, 01 Dec 2024 19:35:35 GMT; Max-Age=34300799; Secure; SameSite=None
+Strict-Transport-Security: max-age=31708800; includeSubDomains; preload
+Timing-Allow-Origin: *
+Vary: X-DM-SSL
+Vary: Accept-Encoding
+X-Frame-Options: deny
+

@@ -1,0 +1,44 @@
+HTTP/1.1 301 Moved Permanently
+Connection: close
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://www.newyorker.com/
+Accept-Ranges: bytes
+Date: Tue, 31 Oct 2023 19:37:31 GMT
+Via: 1.1 varnish
+Set-Cookie: CN_xid=c7e9e9d6-e180-42f5-87f7-0585330d4f85; Expires=Sun, 28 Apr 2024 19:37:31 GMT; Domain=.newyorker.com; path=/; Secure; SameSite=None;
+Set-Cookie: CN_xid_refresh=c7e9e9d6-e180-42f5-87f7-0585330d4f85; Expires=Wed, 30 Oct 2024 19:37:31 GMT; Domain=.newyorker.com; path=/; Secure; httponly; SameSite=None;
+Set-Cookie: xid1=1; Expires=Tue, 31 Oct 2023 19:37:46 GMT; Domain=.newyorker.com; path=/;
+Set-Cookie: CN_segments=co.w2344; Expires=Sun, 28 Apr 2024 19:37:31 GMT; Domain=.newyorker.com; path=/;
+Content-Security-Policy: default-src https: data: 'unsafe-inline' 'unsafe-eval'; child-src https: data: blob:; connect-src https: data: blob: wss://*.hotjar.com wss://*.conde.digital; font-src https: data:; img-src https: blob: data: android-webview-video-poster:; media-src blob: data: https:; object-src https:; script-src https: data: blob: 'unsafe-inline' 'unsafe-eval'; style-src https: 'unsafe-inline'; block-all-mixed-content; upgrade-insecure-requests
+X-Served-By: cache-pdk-kpdk1780138-PDK
+X-Cache: HIT
+X-Cache-Hits: 0
+Vary: 
+Set-Cookie: CN_geo_country_code=US; Expires=Sun, 28 Apr 2024 19:37:31 GMT; Path=/; Domain=newyorker.com; Samesite=None; Secure
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Type: text/html; charset=utf-8
+Via: 1.1 varnish, 1.1 varnish
+Content-Security-Policy: default-src https: data: 'unsafe-inline' 'unsafe-eval'; child-src https: data: blob:; connect-src https: data: blob: wss://*.hotjar.com wss://*.conde.digital; font-src https: data:; img-src https: blob: data: android-webview-video-poster:; media-src blob: data: https:; object-src https:; script-src https: data: blob: 'unsafe-inline' 'unsafe-eval'; style-src https: 'unsafe-inline'; block-all-mixed-content; upgrade-insecure-requests
+X-ESI: on
+Cache-Control: max-age=300
+Verso: true
+Date: Tue, 31 Oct 2023 19:37:31 GMT
+Age: 269
+Set-Cookie: CN_xid=9ec8d262-feb4-442c-bdd0-ba65bc678281; Expires=Sun, 28 Apr 2024 19:37:31 GMT; Domain=.newyorker.com; path=/; Secure; SameSite=None;
+Set-Cookie: CN_xid_refresh=9ec8d262-feb4-442c-bdd0-ba65bc678281; Expires=Wed, 30 Oct 2024 19:37:31 GMT; Domain=.newyorker.com; path=/; Secure; httponly; SameSite=None;
+Set-Cookie: xid1=1; Expires=Tue, 31 Oct 2023 19:37:46 GMT; Domain=.newyorker.com; path=/;
+Set-Cookie: CN_segments=co.w2344; Expires=Sun, 28 Apr 2024 19:37:31 GMT; Domain=.newyorker.com; path=/;
+Strict-Transport-Security: max-age=86400; preload
+X-Served-By: cache-iad-kcgs7200110-IAD, cache-pdk-kpdk1780070-PDK
+X-Cache: HIT, HIT
+X-Cache-Hits: 83, 1
+X-Timer: S1698781052.874569,VS0,VE14
+X-UA-Device: desktop
+Set-Cookie: verso_bucket=213; Expires=Wed, 30 Oct 2024 19:37:31 GMT; path=/;
+Vary: accept-encoding, Accept-Encoding, cn-experiments, X-UA-Device, high-ad-cadence, Verso, Accept-Encoding
+Set-Cookie: CN_geo_country_code=US; Expires=Sun, 28 Apr 2024 19:37:31 GMT; Path=/; Domain=newyorker.com; Samesite=None; Secure
+

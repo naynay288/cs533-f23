@@ -1,0 +1,38 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Connection: keep-alive
+Date: Tue, 31 Oct 2023 19:37:30 GMT
+Location: https://thenai.org/
+Server: AmazonS3
+X-Cache: Miss from cloudfront
+Via: 1.1 c49486442b18e6a1549b38f357be8af6.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ATL58-P1
+X-Amz-Cf-Id: 0zy0eKb1zAcSiDuq93UWB5eoTMe4RBEv0l1oaZnam9hEGi4HGFqldA==
+
+HTTP/1.1 200 OK
+Date: Tue, 31 Oct 2023 19:37:30 GMT
+Content-Type: text/html; charset=UTF-8
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding,Cookie
+x-powered-by: WP Engine
+Link: <https://thenai.org/wp-json/>; rel="https://api.w.org/"
+Link: <https://thenai.org/wp-json/wp/v2/pages/126>; rel="alternate"; type="application/json"
+Link: <https://thenai.org/>; rel=shortlink
+X-ET-API-VERSION: v1
+X-ET-API-ROOT: https://thenai.org/wp-json/tribe/tickets/v1/
+X-ET-API-ORIGIN: https://thenai.org
+X-TEC-API-VERSION: v1
+X-TEC-API-ROOT: https://thenai.org/wp-json/tribe/events/v1/
+X-TEC-API-ORIGIN: https://thenai.org
+X-Cacheable: SHORT
+Cache-Control: max-age=600, must-revalidate
+X-Cache: HIT: 91
+X-Cache-Group: normal
+CF-Cache-Status: DYNAMIC
+Server: cloudflare
+CF-RAY: 81ee5a5ae8a7458f-ATL
+alt-svc: h3=":443"; ma=86400
+

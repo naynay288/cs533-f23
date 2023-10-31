@@ -1,0 +1,38 @@
+HTTP/1.1 301 Moved Permanently
+Cache-Control: private
+Location: https://www.last.fm:443/
+Content-Length: 0
+Date: Tue, 31 Oct 2023 19:37:10 GMT
+Content-Type: text/html; charset=UTF-8
+
+HTTP/1.1 200 OK
+Connection: keep-alive
+Content-Length: 109923
+Server: nginx
+Content-Type: text/html; charset=utf-8
+Content-Security-Policy: upgrade-insecure-requests;
+Content-Security-Policy-Report-Only: default-src https: 'unsafe-inline' 'unsafe-eval' wss: ;img-src https: data: blob: ; font-src https: data:; form-action https: http://www.last.fm; report-uri https://cbsi.report-uri.io/r/default/csp/enforce
+X-PJAX-URL: https://www.last.fm/
+X-Frame-Options: DENY
+Content-Language: en
+Set-Cookie: lpfrmo=0; Domain=last.fm; expires=Tue, 31 Oct 2023 19:38:10 GMT; Max-Age=60; Path=/; Secure
+Set-Cookie: lfmanon=1; Path=/
+Set-Cookie: not_first_visit=1; Path=/
+Set-Cookie: sessionid=eyJfYXV0aF91c2VyX2hhc2giOiJkZWZhdWx0Iiwic2Vzc2lvbl9pZCI6IjZiYTNmMzVhLTMxNDYtNGY3Yy04MGE3LWVhN2YxN2ExYjNiNyJ9:1qxuY2:GftuEOF9LRVbreGVSRU9pgbztSNWCd5N4x5D6FE7REI; Domain=.last.fm; expires=Wed, 30 Oct 2024 19:37:10 GMT; HttpOnly; Max-Age=31536000; Path=/; SameSite=Lax; Secure
+Via: 1.1 google, 1.1 varnish
+Accept-Ranges: bytes
+Date: Tue, 31 Oct 2023 19:37:10 GMT
+X-Served-By: prod-lfm-web-7f75665874-lr648, cache-fty21373-FTY
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1698781030.492568,VS0,VE99
+Vary: Accept-Encoding, Accept-Language, Cookie
+X-LFM-Upstream: /
+X-LFM-Upstream-Type: PASS
+X-Request-Category: page
+X-LFM-Cacheable-Page: 0
+Set-Cookie: X-UA-Device-Type=desktop; max-age=60; secure; same-site=strict; Path=/
+Set-Cookie: X-UA-Country-Code=US; max-age=60; secure; same-site=strict; Path=/
+Cache-Control: max-age=0, must-revalidate
+Strict-Transport-Security: max-age=300
+

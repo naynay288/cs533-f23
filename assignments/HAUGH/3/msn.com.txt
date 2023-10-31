@@ -1,0 +1,33 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Location: https://msn.com/
+X-MSEdge-Ref: Ref A: 51A0C44825A749D8902478DE705066AE Ref B: ATAEDGE0913 Ref C: 2023-10-31T19:37:28Z
+Date: Tue, 31 Oct 2023 19:37:27 GMT
+
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Location: https://www.msn.com/
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: 7C364DC6794B496598A49CFCE63D7105 Ref B: ATL331000104029 Ref C: 2023-10-31T19:37:28Z
+Date: Tue, 31 Oct 2023 19:37:27 GMT
+
+HTTP/1.1 404 Not Found
+Cache-Control: no-store, no-cache
+Pragma: no-cache
+Content-Length: 0
+Set-Cookie: _C_ETH=1; domain=.msn.com; path=/; secure; httponly
+Set-Cookie: _C_Auth=
+Set-Cookie: MUID=119011046D4F61500AC102BF6C6360DB; expires=Sun, 24 Nov 2024 19:37:28 GMT; domain=.msn.com; path=/; secure; samesite=none
+Set-Cookie: MUIDB=119011046D4F61500AC102BF6C6360DB; expires=Sun, 24 Nov 2024 19:37:28 GMT; path=/; httponly
+Set-Cookie: _EDGE_S=F=1&SID=08098FD1B53D62AA35C09C6AB4B56367; domain=.msn.com; path=/; httponly
+Set-Cookie: _EDGE_V=1; expires=Sun, 24 Nov 2024 19:37:28 GMT; domain=.msn.com; path=/; httponly
+x-fabric-cluster: pmeprodeus
+nel: {"report_to":"network-errors","max_age":604800,"success_fraction":0.001,"failure_fraction":0.5}
+report-to: {"group":"network-errors","max_age":604800,"endpoints":[{"url":"https://deff.nelreports.net/api/report?cat=msn"}]},{"group":"csp-endpoint","max_age":86400,"endpoints":[{"url":"https://deff.nelreports.net/api/report"}]}
+X-Ceto-ref: 3E07B4994812409AB29D1EDDFFA87D00|2023-10-31T19:37:28.902Z
+X-Cache: CONFIG_NOCACHE
+Accept-CH: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version
+X-MSEdge-Ref: Ref A: 3E07B4994812409AB29D1EDDFFA87D00 Ref B: ATAEDGE1720 Ref C: 2023-10-31T19:37:28Z
+Date: Tue, 31 Oct 2023 19:37:28 GMT
+

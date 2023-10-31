@@ -1,0 +1,625 @@
+HTTP/1.1 301 Moved Permanently
+location: https://ebay.com/
+x-ebay-pop-id: SLBLVSAZ01
+date: Tue, 31 Oct 2023 19:35:43 GMT
+server: ebay-proxy-server
+transfer-encoding: chunked
+
+HTTP/1.1 301 Moved Permanently
+location: https://www.ebay.com/
+strict-transport-security: max-age=31536000
+x-ebay-pop-id: SLBLVSAZ01
+date: Tue, 31 Oct 2023 19:35:43 GMT
+server: ebay-proxy-server
+transfer-encoding: chunked
+
+HTTP/1.1 302 Moved Temporarily
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+Location: http://www.ebay.com/n/error
+Content-Length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 86
+Server: ebay-proxy-server
+strict-transport-security: max-age=31536000
+Date: Tue, 31 Oct 2023 19:35:44 GMT
+Connection: keep-alive
+Set-Cookie: __deba=CroHx6zk-WpbLplFvH5RAg98rsfv5RYh9NwLFCGhYYBiuv6AGIzuHqFUnGk_fMuWXR8UW1J2_XMwSXzXGqPFGCIca_0B7b3w56mSSrAccu6T7enzfWnSx43Ll8s40gvoIj45_GI1-H7PqSKdh4p6Ag==; Path=/; Domain=.ebay.com; Expires=Sun, 28 Apr 2024 19:35:44 UTC
+
+HTTP/1.1 303 See Other
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+Location: http://pages.ebay.com/messages/page_not_responding.html
+Content-Length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 20
+Server: ebay-proxy-server
+strict-transport-security: max-age=31536000
+Date: Tue, 31 Oct 2023 19:35:44 GMT
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+Location: https://pages.ebay.com/messages/page_not_responding.html
+x-ebay-pop-id: SLBSLCAZ01
+Server: ebay-proxy-server
+Content-Length: 0
+Date: Tue, 31 Oct 2023 19:35:44 GMT
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+rlogid: t6fug%60f%3F%3Ctofcwbbc*inlu%7B%28rbpv6770-18b8724e016-0x110
+Last-Modified: Tue, 31 Oct 2023 19:09:05 GMT
+Location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Server: ebay-proxy-server
+x-envoy-upstream-service-time: 12
+strict-transport-security: max-age=600
+x-ebay-pop-id: SLBLVSAZ04
+Date: Tue, 31 Oct 2023 19:35:45 GMT
+Connection: keep-alive
+
+HTTP/1.1 303 See Other
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+Location: http://pages.ebay.com/messages/page_not_responding.html
+Content-Length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 27
+Server: ebay-proxy-server
+strict-transport-security: max-age=31536000
+Date: Tue, 31 Oct 2023 19:35:45 GMT
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+rlogid: t6fug%60f%3F%3Ctofcwbbc*inlu%7B%28rbpv6770-18b8724e016-0x110
+Last-Modified: Tue, 31 Oct 2023 19:09:05 GMT
+Location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Server: ebay-proxy-server
+x-envoy-upstream-service-time: 12
+strict-transport-security: max-age=600
+x-ebay-pop-id: SLBLVSAZ04
+Date: Tue, 31 Oct 2023 19:35:45 GMT
+Connection: keep-alive
+
+HTTP/1.1 303 See Other
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+Location: http://pages.ebay.com/messages/page_not_responding.html
+Content-Length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 25
+Server: ebay-proxy-server
+strict-transport-security: max-age=31536000
+Date: Tue, 31 Oct 2023 19:35:45 GMT
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+rlogid: t6fug%60f%3F%3Ctofcwbbc*inlu%7B%28rbpv6770-18b8724e016-0x110
+Last-Modified: Tue, 31 Oct 2023 19:09:05 GMT
+Location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Server: ebay-proxy-server
+x-envoy-upstream-service-time: 12
+strict-transport-security: max-age=600
+x-ebay-pop-id: SLBLVSAZ04
+Date: Tue, 31 Oct 2023 19:35:45 GMT
+Connection: keep-alive
+
+HTTP/1.1 303 See Other
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+Location: http://pages.ebay.com/messages/page_not_responding.html
+Content-Length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 49
+Server: ebay-proxy-server
+strict-transport-security: max-age=31536000
+Date: Tue, 31 Oct 2023 19:35:46 GMT
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+rlogid: t6fug%60f%3F%3Ctofcwbbc*inlu%7B%28rbpv6770-18b8724e016-0x110
+Last-Modified: Tue, 31 Oct 2023 19:09:05 GMT
+Location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Server: ebay-proxy-server
+x-envoy-upstream-service-time: 12
+strict-transport-security: max-age=600
+x-ebay-pop-id: SLBLVSAZ04
+Date: Tue, 31 Oct 2023 19:35:46 GMT
+Connection: keep-alive
+
+HTTP/1.1 303 See Other
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+Location: http://pages.ebay.com/messages/page_not_responding.html
+Content-Length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 13
+Server: ebay-proxy-server
+strict-transport-security: max-age=31536000
+Date: Tue, 31 Oct 2023 19:35:46 GMT
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+rlogid: t6fug%60f%3F%3Ctofcwbbc*inlu%7B%28rbpv6770-18b8724e016-0x110
+Last-Modified: Tue, 31 Oct 2023 19:09:05 GMT
+Location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Server: ebay-proxy-server
+x-envoy-upstream-service-time: 12
+strict-transport-security: max-age=600
+x-ebay-pop-id: SLBLVSAZ04
+Date: Tue, 31 Oct 2023 19:35:46 GMT
+Connection: keep-alive
+
+HTTP/1.1 303 See Other
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+Location: http://pages.ebay.com/messages/page_not_responding.html
+Content-Length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 21
+Server: ebay-proxy-server
+strict-transport-security: max-age=31536000
+Date: Tue, 31 Oct 2023 19:35:46 GMT
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+rlogid: t6fug%60f%3F%3Ctofcwbbc*inlu%7B%28rbpv6770-18b8724e016-0x110
+Last-Modified: Tue, 31 Oct 2023 19:09:05 GMT
+Location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Server: ebay-proxy-server
+x-envoy-upstream-service-time: 12
+strict-transport-security: max-age=600
+x-ebay-pop-id: SLBLVSAZ04
+Date: Tue, 31 Oct 2023 19:35:46 GMT
+Connection: keep-alive
+
+HTTP/1.1 303 See Other
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+Location: http://pages.ebay.com/messages/page_not_responding.html
+Content-Length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 19
+Server: ebay-proxy-server
+strict-transport-security: max-age=31536000
+Date: Tue, 31 Oct 2023 19:35:47 GMT
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+rlogid: t6fug%60f%3F%3Ctofcwbbc*inlu%7B%28rbpv6770-18b8724e016-0x110
+Last-Modified: Tue, 31 Oct 2023 19:09:05 GMT
+Location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Server: ebay-proxy-server
+x-envoy-upstream-service-time: 12
+strict-transport-security: max-age=600
+x-ebay-pop-id: SLBLVSAZ04
+Date: Tue, 31 Oct 2023 19:35:47 GMT
+Connection: keep-alive
+
+HTTP/1.1 303 See Other
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+Location: http://pages.ebay.com/messages/page_not_responding.html
+Content-Length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 20
+Server: ebay-proxy-server
+strict-transport-security: max-age=31536000
+Date: Tue, 31 Oct 2023 19:35:47 GMT
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+rlogid: t6fug%60f%3F%3Ctofcwbbc*inlu%7B%28rbpv6770-18b8724e016-0x110
+Last-Modified: Tue, 31 Oct 2023 19:09:05 GMT
+Location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Server: ebay-proxy-server
+x-envoy-upstream-service-time: 12
+strict-transport-security: max-age=600
+x-ebay-pop-id: SLBLVSAZ04
+Date: Tue, 31 Oct 2023 19:35:47 GMT
+Connection: keep-alive
+
+HTTP/1.1 303 See Other
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+Location: http://pages.ebay.com/messages/page_not_responding.html
+Content-Length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 37
+Server: ebay-proxy-server
+strict-transport-security: max-age=31536000
+Date: Tue, 31 Oct 2023 19:35:47 GMT
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+rlogid: t6fug%60f%3F%3Ctofcwbbc*inlu%7B%28rbpv6770-18b8724e016-0x110
+Last-Modified: Tue, 31 Oct 2023 19:09:05 GMT
+Location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Server: ebay-proxy-server
+x-envoy-upstream-service-time: 12
+strict-transport-security: max-age=600
+x-ebay-pop-id: SLBLVSAZ04
+Date: Tue, 31 Oct 2023 19:35:47 GMT
+Connection: keep-alive
+
+HTTP/1.1 303 See Other
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+Location: http://pages.ebay.com/messages/page_not_responding.html
+Content-Length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 36
+Server: ebay-proxy-server
+strict-transport-security: max-age=31536000
+Date: Tue, 31 Oct 2023 19:35:48 GMT
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+rlogid: t6fug%60f%3F%3Ctofcwbbc*inlu%7B%28rbpv6770-18b8724e016-0x110
+Last-Modified: Tue, 31 Oct 2023 19:09:05 GMT
+Location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Server: ebay-proxy-server
+x-envoy-upstream-service-time: 12
+strict-transport-security: max-age=600
+x-ebay-pop-id: SLBLVSAZ04
+Date: Tue, 31 Oct 2023 19:35:48 GMT
+Connection: keep-alive
+
+HTTP/1.1 303 See Other
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+Location: http://pages.ebay.com/messages/page_not_responding.html
+Content-Length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 31
+Server: ebay-proxy-server
+strict-transport-security: max-age=31536000
+Date: Tue, 31 Oct 2023 19:35:48 GMT
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+rlogid: t6fug%60f%3F%3Ctofcwbbc*inlu%7B%28rbpv6770-18b8724e016-0x110
+Last-Modified: Tue, 31 Oct 2023 19:09:05 GMT
+Location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Server: ebay-proxy-server
+x-envoy-upstream-service-time: 12
+strict-transport-security: max-age=600
+x-ebay-pop-id: SLBLVSAZ04
+Date: Tue, 31 Oct 2023 19:35:48 GMT
+Connection: keep-alive
+
+HTTP/1.1 303 See Other
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+Location: http://pages.ebay.com/messages/page_not_responding.html
+Content-Length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 4
+Server: ebay-proxy-server
+strict-transport-security: max-age=31536000
+Date: Tue, 31 Oct 2023 19:35:49 GMT
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+rlogid: t6fug%60f%3F%3Ctofcwbbc*inlu%7B%28rbpv6770-18b8724e016-0x110
+Last-Modified: Tue, 31 Oct 2023 19:09:05 GMT
+Location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Server: ebay-proxy-server
+x-envoy-upstream-service-time: 12
+strict-transport-security: max-age=600
+x-ebay-pop-id: SLBLVSAZ04
+Date: Tue, 31 Oct 2023 19:35:49 GMT
+Connection: keep-alive
+
+HTTP/1.1 303 See Other
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+Location: http://pages.ebay.com/messages/page_not_responding.html
+Content-Length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 18
+Server: ebay-proxy-server
+strict-transport-security: max-age=31536000
+Date: Tue, 31 Oct 2023 19:35:49 GMT
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+rlogid: t6fug%60f%3F%3Ctofcwbbc*inlu%7B%28rbpv6770-18b8724e016-0x110
+Last-Modified: Tue, 31 Oct 2023 19:09:05 GMT
+Location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Server: ebay-proxy-server
+x-envoy-upstream-service-time: 12
+strict-transport-security: max-age=600
+x-ebay-pop-id: SLBLVSAZ04
+Date: Tue, 31 Oct 2023 19:35:49 GMT
+Connection: keep-alive
+
+HTTP/1.1 303 See Other
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+Location: http://pages.ebay.com/messages/page_not_responding.html
+Content-Length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 28
+Server: ebay-proxy-server
+strict-transport-security: max-age=31536000
+Date: Tue, 31 Oct 2023 19:35:49 GMT
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+rlogid: t6fug%60f%3F%3Ctofcwbbc*inlu%7B%28rbpv6770-18b8724e016-0x110
+Last-Modified: Tue, 31 Oct 2023 19:09:05 GMT
+Location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Server: ebay-proxy-server
+x-envoy-upstream-service-time: 12
+strict-transport-security: max-age=600
+x-ebay-pop-id: SLBLVSAZ04
+Date: Tue, 31 Oct 2023 19:35:49 GMT
+Connection: keep-alive
+
+HTTP/1.1 303 See Other
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+Location: http://pages.ebay.com/messages/page_not_responding.html
+Content-Length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 25
+Server: ebay-proxy-server
+strict-transport-security: max-age=31536000
+Date: Tue, 31 Oct 2023 19:35:50 GMT
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+rlogid: t6fug%60f%3F%3Ctofcwbbc*inlu%7B%28rbpv6770-18b8724e016-0x110
+Last-Modified: Tue, 31 Oct 2023 19:09:05 GMT
+Location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Server: ebay-proxy-server
+x-envoy-upstream-service-time: 12
+strict-transport-security: max-age=600
+x-ebay-pop-id: SLBLVSAZ04
+Date: Tue, 31 Oct 2023 19:35:50 GMT
+Connection: keep-alive
+
+HTTP/1.1 303 See Other
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+Location: http://pages.ebay.com/messages/page_not_responding.html
+Content-Length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 23
+Server: ebay-proxy-server
+strict-transport-security: max-age=31536000
+Date: Tue, 31 Oct 2023 19:35:51 GMT
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+rlogid: t6fug%60f%3F%3Ctofcwbbc*inlu%7B%28rbpv6770-18b8724e016-0x110
+Last-Modified: Tue, 31 Oct 2023 19:09:05 GMT
+Location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Server: ebay-proxy-server
+x-envoy-upstream-service-time: 12
+strict-transport-security: max-age=600
+x-ebay-pop-id: SLBLVSAZ04
+Date: Tue, 31 Oct 2023 19:35:51 GMT
+Connection: keep-alive
+
+HTTP/1.1 303 See Other
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+Location: http://pages.ebay.com/messages/page_not_responding.html
+Content-Length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 26
+Server: ebay-proxy-server
+strict-transport-security: max-age=31536000
+Date: Tue, 31 Oct 2023 19:35:51 GMT
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+rlogid: t6fug%60f%3F%3Ctofcwbbc*inlu%7B%28rbpv6770-18b8724e016-0x110
+Last-Modified: Tue, 31 Oct 2023 19:09:05 GMT
+Location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Server: ebay-proxy-server
+x-envoy-upstream-service-time: 12
+strict-transport-security: max-age=600
+x-ebay-pop-id: SLBLVSAZ04
+Date: Tue, 31 Oct 2023 19:35:51 GMT
+Connection: keep-alive
+
+HTTP/1.1 303 See Other
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+Location: http://pages.ebay.com/messages/page_not_responding.html
+Content-Length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 47
+Server: ebay-proxy-server
+strict-transport-security: max-age=31536000
+Date: Tue, 31 Oct 2023 19:35:51 GMT
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+rlogid: t6fug%60f%3F%3Ctofcwbbc*inlu%7B%28rbpv6770-18b8724e016-0x110
+Last-Modified: Tue, 31 Oct 2023 19:09:05 GMT
+Location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Server: ebay-proxy-server
+x-envoy-upstream-service-time: 12
+strict-transport-security: max-age=600
+x-ebay-pop-id: SLBLVSAZ04
+Date: Tue, 31 Oct 2023 19:35:51 GMT
+Connection: keep-alive
+
+HTTP/1.1 303 See Other
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+Location: http://pages.ebay.com/messages/page_not_responding.html
+Content-Length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 16
+Server: ebay-proxy-server
+strict-transport-security: max-age=31536000
+Date: Tue, 31 Oct 2023 19:35:52 GMT
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+rlogid: t6fug%60f%3F%3Ctofcwbbc*inlu%7B%28rbpv6770-18b8724e016-0x110
+Last-Modified: Tue, 31 Oct 2023 19:09:05 GMT
+Location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Server: ebay-proxy-server
+x-envoy-upstream-service-time: 12
+strict-transport-security: max-age=600
+x-ebay-pop-id: SLBLVSAZ04
+Date: Tue, 31 Oct 2023 19:35:52 GMT
+Connection: keep-alive
+
+HTTP/1.1 303 See Other
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+Location: http://pages.ebay.com/messages/page_not_responding.html
+Content-Length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 64
+Server: ebay-proxy-server
+strict-transport-security: max-age=31536000
+Date: Tue, 31 Oct 2023 19:35:52 GMT
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+rlogid: t6fug%60f%3F%3Ctofcwbbc*inlu%7B%28rbpv6770-18b8724e016-0x110
+Last-Modified: Tue, 31 Oct 2023 19:09:05 GMT
+Location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Server: ebay-proxy-server
+x-envoy-upstream-service-time: 12
+strict-transport-security: max-age=600
+x-ebay-pop-id: SLBLVSAZ04
+Date: Tue, 31 Oct 2023 19:35:52 GMT
+Connection: keep-alive
+
+HTTP/1.1 303 See Other
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+Location: http://pages.ebay.com/messages/page_not_responding.html
+Content-Length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 15
+Server: ebay-proxy-server
+strict-transport-security: max-age=31536000
+Date: Tue, 31 Oct 2023 19:35:53 GMT
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+rlogid: t6fug%60f%3F%3Ctofcwbbc*inlu%7B%28rbpv6770-18b8724e016-0x110
+Last-Modified: Tue, 31 Oct 2023 19:09:05 GMT
+Location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Server: ebay-proxy-server
+x-envoy-upstream-service-time: 12
+strict-transport-security: max-age=600
+x-ebay-pop-id: SLBLVSAZ04
+Date: Tue, 31 Oct 2023 19:35:53 GMT
+Connection: keep-alive
+
+HTTP/1.1 303 See Other
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+Location: http://pages.ebay.com/messages/page_not_responding.html
+Content-Length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 58
+Server: ebay-proxy-server
+strict-transport-security: max-age=31536000
+Date: Tue, 31 Oct 2023 19:35:53 GMT
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+rlogid: t6fug%60f%3F%3Ctofcwbbc*inlu%7B%28rbpv6770-18b8724e016-0x110
+Last-Modified: Tue, 31 Oct 2023 19:09:05 GMT
+Location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Server: ebay-proxy-server
+x-envoy-upstream-service-time: 12
+strict-transport-security: max-age=600
+x-ebay-pop-id: SLBLVSAZ04
+Date: Tue, 31 Oct 2023 19:35:53 GMT
+Connection: keep-alive
+
+HTTP/1.1 303 See Other
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+Location: http://pages.ebay.com/messages/page_not_responding.html
+Content-Length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 4
+Server: ebay-proxy-server
+strict-transport-security: max-age=31536000
+Date: Tue, 31 Oct 2023 19:35:53 GMT
+Connection: keep-alive
+
+HTTP/1.1 301 Moved Permanently
+rlogid: t6fug%60f%3F%3Ctofcwbbc*inlu%7B%28rbpv6770-18b8724e016-0x110
+Last-Modified: Tue, 31 Oct 2023 19:09:05 GMT
+Location: https://www.ebay.com/n/error?statuscode=500
+Content-Length: 0
+Server: ebay-proxy-server
+x-envoy-upstream-service-time: 12
+strict-transport-security: max-age=600
+x-ebay-pop-id: SLBLVSAZ04
+Date: Tue, 31 Oct 2023 19:35:53 GMT
+Connection: keep-alive
+
+HTTP/1.1 303 See Other
+x-content-type-options: nosniff
+x-xss-protection: 1; mode=block
+x-frame-options: SAMEORIGIN
+Location: http://pages.ebay.com/messages/page_not_responding.html
+Content-Length: 0
+rlogid: undefined
+x-envoy-upstream-service-time: 11
+Server: ebay-proxy-server
+strict-transport-security: max-age=31536000
+Date: Tue, 31 Oct 2023 19:35:54 GMT
+Connection: keep-alive
+

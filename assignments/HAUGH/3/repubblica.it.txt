@@ -1,0 +1,47 @@
+HTTP/1.1 301 Moved Permanently
+Content-Length: 0
+Connection: keep-alive
+Cache-Control: private, no-cache, no-store, must-revalidate, pre-check=0, post-check=0
+Date: Tue, 31 Oct 2023 19:37:40 GMT
+Expires: Tue, 31 Mar 1981 05:00:00 GMT
+Location: https://www.repubblica.it/
+Server: Varnish
+X-Varnish: 1016285961
+X-Cache: Miss from cloudfront
+Via: 1.1 59d47415973fdc0751ce88be5c9c1a26.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ATL58-P7
+X-Amz-Cf-Id: d7aFyDFsoB9YCyIKLznYY9GkZGmuWVreYtsQLElgKpLdkhU90RuAng==
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+X-GUploader-UploadID: ABPtcPpOWLLO0TPBhuhlh1naAOHsXVauMeze8DDq7R0fuGAaXTFffp6FPxo15_z51i1AWrxXLcQ
+Expires: Tue, 31 Oct 2023 19:36:55 GMT
+x-goog-generation: 1698780655138690
+x-goog-metageneration: 1
+x-goog-stored-content-encoding: identity
+x-goog-stored-content-length: 378118
+x-goog-meta-mtime: 2023-10-31T20:30:54.781861493+01:00
+x-goog-hash: crc32c=q6SC7Q==
+x-goog-hash: md5=3Nt2QUq0eBA9fHfCY8KhDg==
+x-goog-storage-class: REGIONAL
+X-Cacheable: YES
+referrer-policy: unsafe-url
+Content-Security-Policy: upgrade-insecure-requests; default-src https: wss: data: blob: 'unsafe-inline' 'unsafe-eval'
+Content-Security-Policy-Report-Only: default-src https: wss: data: blob: 'unsafe-inline' 'unsafe-eval'; report-uri https://logger.kataweb.it/csp/
+X-Robots-Tag: noarchive, max-image-preview:large
+x-kw-date: Tue, 31 Oct 2023 19:36:55 GMT
+x-kw-expires: Tue, 31 Oct 2023 19:36:55 GMT
+Cache-Control: max-age=61, s-maxage=61
+smaxagedone: yup
+x-kw-cache-control: max-age=61, s-maxage=61
+Accept-Ranges: bytes
+Date: Tue, 31 Oct 2023 19:36:57 GMT
+Via: 1.1 google, 1.1 4b03860b1b9cb623000b474ffbb510b2.cloudfront.net (CloudFront)
+Vary: Accept-Encoding,gd-facet-webview
+X-Cache: Hit from cloudfront
+X-Amz-Cf-Pop: ATL58-P2
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: SlENq24HBO6Er_5Bvy0UGCz0oylFqcWSr6P9HCvDzViGzuaBNBvezQ==
+Age: 44
+

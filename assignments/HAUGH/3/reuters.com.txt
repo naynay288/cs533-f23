@@ -1,0 +1,41 @@
+HTTP/1.0 301 Moved Permanently
+Location: http://www.reuters.com/
+Server: BigIP
+Connection: Keep-Alive
+Content-Length: 0
+
+HTTP/1.1 301 Moved Permanently
+Server: CloudFront
+Date: Tue, 31 Oct 2023 19:37:41 GMT
+Content-Type: text/html
+Content-Length: 167
+Connection: close
+Location: https://www.reuters.com/
+X-Cache: Redirect from cloudfront
+Via: 1.1 86f2f193aa2ea128cb06e1f9e32be874.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ATL58-P7
+X-Amz-Cf-Id: UQYf01dSh1zId-seClqEnq-RTqm2Smsz-UgjbAR43bygg2l6t6ZocQ==
+
+HTTP/1.1 200 OK
+Content-Type: text/html; charset=utf-8
+Connection: close
+Server: openresty
+ETag: W/"135e76-OzhaBH7hyDUGRAKxYo0sarW6pZo"
+x-arc-pb-request-id: 42c3e6bb-aeae-4b8c-b59d-31ca637c84c4
+Last-Modified: Tue, 31 Oct 2023 19:36:53 GMT
+Prerender-Cache-Tag: prerender-reuters-reuters-prod-b308edcd
+x-arc-pb-request-id: 40d1a97c-3d89-421e-897a-2092cff12ca6
+X-Amz-Cf-Pop: IAD79-C1
+Cache-Control: private, max-age=60
+Expires: Tue, 31 Oct 2023 19:38:41 GMT
+Date: Tue, 31 Oct 2023 19:37:41 GMT
+Set-Cookie: reuters-geo={"country":"-", "region":"-"}; path=/; secure
+Strict-Transport-Security: max-age=31536000
+x-arc-request-id: 0.50dfda17.1698781061.197389b
+Akamai-True-TTL: 120
+Server-Timing: ak_p; desc="1698781061536_400219984_26687643_23_8449_1_2_-";dur=1
+X-Cache: Miss from cloudfront
+Via: 1.1 19475edee4e6ab353f17599920758414.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ATL58-P7
+X-Amz-Cf-Id: Hv_P0p8jCaCqzBRt2nJ4bpfM9Y4IixRU5IwqLwyifDOppUZg8W2Thg==
+

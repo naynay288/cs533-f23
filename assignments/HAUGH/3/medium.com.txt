@@ -1,0 +1,37 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 31 Oct 2023 19:37:12 GMT
+Connection: keep-alive
+Cache-Control: max-age=3600
+Expires: Tue, 31 Oct 2023 20:37:12 GMT
+Location: https://medium.com/
+X-Content-Type-Options: nosniff
+Set-Cookie: __cfruid=25306eb3b95cb30a99915afedfe1f7abb2a2cba8-1698781032; path=/; domain=.medium.com; HttpOnly
+Server: cloudflare
+CF-RAY: 81ee59ea9c67180f-ATL
+alt-svc: h3=":443"; ma=86400
+
+HTTP/1.1 200 OK
+Date: Tue, 31 Oct 2023 19:37:12 GMT
+Content-Type: text/html; charset=utf-8
+Connection: keep-alive
+CF-Ray: 81ee59ebfcba4590-ATL
+CF-Cache-Status: DYNAMIC
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate
+Link: <https://glyph.medium.com/css/unbound.css>; as="style"; rel="preload"
+Set-Cookie: uid=lo_c0f7abdd37d8; Domain=medium.com; Path=/; Expires=Thu, 31 Oct 2024 19:37:12 GMT; HttpOnly; Secure; SameSite=None
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Vary: Accept-Encoding
+content-security-policy: frame-ancestors 'self' https://medium.com
+medium-fulfilled-by: edgy/8.3.0, valencia/main-20231031-165932-714e840cb1, lite/main-20231031-152608-22802ac2c5, rito/main-20231031-165932-714e840cb1, tutu/main-20231030-225327-9aba3f5867
+medium-missing-time: 138
+worker-cache-key: medium.com/?li=false
+worker-cache-middleware: true
+worker-missing-cookies: 1
+X-Content-Type-Options: nosniff
+x-envoy-upstream-service-time: 351
+x-request-received-at: 1698781032373
+Set-Cookie: sid=1:AknPM4UQkGpzOUGnbzCW90tiUpcEAEHMETvyyP6V6nxJJkAfIqYexmiRFVir6DmR; Domain=medium.com; Path=/; Expires=Thu, 31 Oct 2024 19:37:12 GMT; HttpOnly; Secure; SameSite=None
+Set-Cookie: __cfruid=25306eb3b95cb30a99915afedfe1f7abb2a2cba8-1698781032; path=/; domain=.medium.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+alt-svc: h3=":443"; ma=86400
+

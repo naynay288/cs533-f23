@@ -1,0 +1,42 @@
+HTTP/1.1 301 Moved Permanently
+location: https://dropbox.com/
+date: Tue, 31 Oct 2023 19:35:40 GMT
+server: envoy
+x-dropbox-request-id: 659a69c32f624327bf67f2bd275accf9
+transfer-encoding: chunked
+
+HTTP/1.1 301 Moved Permanently
+Location: https://www.dropbox.com/
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Cache-Control: no-cache, no-store
+Vary: Accept-Encoding
+X-Dropbox-Response-Origin: local
+Date: Tue, 31 Oct 2023 19:35:41 GMT
+Server: envoy
+X-Dropbox-Request-Id: f508d9dcd7364c08882faf0efdd00396
+Transfer-Encoding: chunked
+
+HTTP/1.1 200 OK
+Content-Security-Policy: base-uri 'self' ; child-src https://www.dropbox.com/static/serviceworker/ blob: ; connect-src https://* ws://127.0.0.1:*/ws wss://docsend-uppy-companion.herokuapp.com/ wss://dsimports.dropbox.com/ ; default-src 'none' ; font-src https://* data: ; form-action 'self' https://www.dropbox.com/ https://dl-web.dropbox.com/ https://photos.dropbox.com/ https://paper.dropbox.com/ https://showcase.dropbox.com/ https://www.hellofax.com/ https://app.hellofax.com/ https://www.hellosign.com/ https://app.hellosign.com/ https://docsend.com/ https://www.docsend.com/ https://help.dropbox.com/ https://navi.dropbox.jp/ https://a.sprig.com/ https://selfguidedlearning.dropboxbusiness.com/ https://instructorledlearning.dropboxbusiness.com/ https://sales.dropboxbusiness.com/ https://accounts.google.com/ https://api.login.yahoo.com/ https://login.yahoo.com/ https://experience.dropbox.com/ https://pal-test.adyen.com https://2e83413d8036243b-Dropbox-pal-live.adyenpayments.com/ ; frame-src https://* carousel: dbapi-6: dbapi-7: dbapi-8: dropbox-client: itms-apps: itms-appss: ; img-src https://* data: blob: ; media-src https://* blob: ; object-src 'self' https://cfl.dropboxstatic.com/static/ https://www.dropboxstatic.com/static/ ; report-uri https://www.dropbox.com/csp_log?policy_name=metaserver-whitelist ; script-src 'unsafe-eval' https://www.dropbox.com/static/api/ https://www.dropbox.com/page_success/ https://cfl.dropboxstatic.com/static/ https://www.dropboxstatic.com/static/ https://accounts.google.com/gsi/client https://canny.io/sdk.js https://www.google.com/recaptcha/ https://www.gstatic.com/recaptcha/ 'unsafe-inline' ; style-src https://* 'unsafe-inline' 'unsafe-eval' ; worker-src https://www.dropbox.com/static/serviceworker/ https://www.dropbox.com/encrypted_folder_download/service_worker.js blob:
+Referrer-Policy: strict-origin-when-cross-origin
+Set-Cookie:  gvc=OTQ5MTAxNTQwMTUwNjY5MDQ0MjkyMjEyNTk0NTM1OTc5MzUxMzc%3D; expires=Sun, 29 Oct 2028 19:35:42 GMT; HttpOnly; Path=/; SameSite=None; Secure
+Set-Cookie:  t=l3aHZSVad7ilhAwphGWFdk-m; Domain=dropbox.com; expires=Fri, 30 Oct 2026 19:35:41 GMT; HttpOnly; Path=/; SameSite=None; Secure
+Set-Cookie:  __Host-js_csrf=l3aHZSVad7ilhAwphGWFdk-m; expires=Fri, 30 Oct 2026 19:35:41 GMT; Path=/; SameSite=None; Secure
+Set-Cookie:  __Host-ss=sFhTIWB31w; expires=Fri, 30 Oct 2026 19:35:41 GMT; HttpOnly; Path=/; SameSite=Strict; Secure
+Set-Cookie:  locale=en; Domain=dropbox.com; expires=Sun, 29 Oct 2028 19:35:42 GMT; Path=/; SameSite=None; Secure
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 1; mode=block
+Content-Type: application/json
+Accept-Encoding: identity,gzip
+Date: Tue, 31 Oct 2023 19:35:42 GMT
+Server: envoy
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Cache-Control: no-cache, no-store
+Vary: Accept-Encoding
+X-Dropbox-Response-Origin: far_remote
+X-Dropbox-Request-Id: 06d1c38ce52649e9baee51d30be6ad25
+Transfer-Encoding: chunked
+
