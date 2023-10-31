@@ -1,6 +1,7 @@
 
-| TSC | HTTP Only | Secure | SameSite | Strict | Lax | None | Path |
-|-------|-----------|--------|----------|--------|-----|------|------|
+
+|Website| TSC | HTTP Only | Secure | SameSite | Strict | Lax | None | Path |
+|-------|-----------|--------|----------|--------|-----|------|------|------|
 | alexa.com | | | | | | | |
 | alibaba.com ||||||||
 | aljazeera.com ||||||||
@@ -101,6 +102,20 @@
 | yahoo.co.jp ||||||||
 | yale.edu ||||||||
 | zoom.us ||||||||
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
