@@ -82,7 +82,7 @@ his course materials (although any errors are mine).
    * [Content Security Policy (CSP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP) 
    * [CSP Is Dead, Long Live CSP! On the Insecurity of Whitelists and the Future of Content Security Policy](https://research.google/pubs/pub45542/)
    * [Defence in Depth: The medieval castle approach to internet security](https://medstack.co/blog/defence-in-depth-the-medieval-castle-approach-to-internet-security/)
-   * [Class slides](https://docs.google.com/presentation/d/1TbWOIvw1Cl8RnkpMfilhk1j8Tp3y11vI8U0htH6UxoE/edit)
+   * [Class slides](https://docs.google.com/presentation/d/1zl9Fnz0_izeb9l4wXYsMuCIlb9J7XfnHgjGZ53LT_ms/edit)
 
 * Week 07 - October 11 - Fingerprinting and Privacy
    * [Browser Fingerprinting: An Introduction and the Challenges Ahead](https://blog.torproject.org/browser-fingerprinting-introduction-and-challenges-ahead)
@@ -91,12 +91,12 @@ his course materials (although any errors are mine).
 * Week 08 - October 18 - Transport Layer Security
     * [Looking back at the Snowden revelations](https://blog.cryptographyengineering.com/2019/09/24/looking-back-at-the-snowden-revelations/)
     * [HTTPS encryption on the web](https://transparencyreport.google.com/https/overview)
-    * [Class slides](https://docs.google.com/presentation/d/1IsqT_E3vNElJX9_mphzac-ka9Qcac6PSe6FzP4-kNrM/edit)
+    * [Class slides](https://docs.google.com/presentation/d/1XCbpbbsOII5B2bu35Y2ZB9DWUU2VI_fhdiF0_jlLHfI/edit)
 
 * Week 09 - October 25 - HSTS, Certificate Transparency
     * [Strict-Transport-Security](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security)
     * [Protecting Against HSTS Abuse](https://webkit.org/blog/8146/protecting-against-hsts-abuse/)
-    * [HTTP Public Key Pinning (HPKP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Public_Key_Pinning)
+    * [HTTP Public Key Pinning (HPKP)](https://developer.mozilla.org/en-US/docs/Web/HTTP/Public_Key_Pinning) (now redirects to [Certificate Transparency](https://developer.mozilla.org/en-US/docs/Web/Security/Certificate_Transparency); [archived version(http://web.archive.org/web/20220329000600/https://developer.mozilla.org/en-US/docs/Web/HTTP/Public_Key_Pinning); [Wikipedia HPKP](https://en.wikipedia.org/wiki/HTTP_Public_Key_Pinning))
     * [Certificate Transparency](https://tools.ietf.org/html/rfc6962)
     * [Class slides](slides/stark-palmer-https-2019.pdf)
 
