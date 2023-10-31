@@ -1,6 +1,7 @@
 
-**| TSC | HTTP Only | Secure | SameSite | Strict | Lax | None | Path |**
-| alexa.com ||||||||
+| TSC | HTTP Only | Secure | SameSite | Strict | Lax | None | Path |
+|-------|-----------|--------|----------|--------|-----|------|------|
+| alexa.com | | | | | | | |
 | alibaba.com ||||||||
 | aljazeera.com ||||||||
 | aol.com ||||||||
