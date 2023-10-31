@@ -1,3 +1,3 @@
 
-**|TSC|HTTP Only|Secure|SameSite|Strict|Lax|None|Path|**
+**| TSC | HTTP Only | Secure | SameSite | Strict | Lax | None | Path |**
 |----------------|----------------|------------------|
